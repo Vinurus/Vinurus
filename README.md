@@ -1,22 +1,22 @@
-## ✨ IT Student | Paramedic | Professional Sailor
+##  IT Student | Paramedic | Professional Sailor
 
 Hi! I’m an IT student passionate about **Java development**, **mobile apps**, and **embedded systems**.  
 I enjoy creating projects from scratch — from small simulations to functional Android applications.
 
-### 🔧 What I’m learning right now
+###  What I’m learning right now
 - Java (OOP, simulations, small games, backend basics)  
 - Android Studio (UI, activities, interval timers)  
 - Basics of C for microcontrollers  
 - Building simple electronic devices (PCB + firmware)
 
-### 🚀 Projects on GitHub
+###  Projects on GitHub
 I’m currently uploading and polishing my student projects:
 - 🧩 **Java RPG Game** — object-oriented game mechanics  
 - 🅿️ **Parking Simulation** — generators, models, business logic  
 - ⏱ **Android Interval Timer** — simple yet functional mobile app  
 - 🔌 **Microcontroller mini-projects** (in progress)
 
-### 🎯 Goals
+###  Goals
 - Get a programming internship (Java / Android / Embedded)  
 - Improve code quality and architecture  
 - Build more real-world projects
