@@ -11,6 +11,11 @@ I enjoy creating projects from scratch — from small simulations to functional 
 
 ###  Projects on GitHub
 I’m currently uploading and polishing my student projects:
+
+Be sure to check out our academic RPG game — a collaborative project with a simple but fully playable GUI:
+
+    👉  https://github.com/Console-dungeon/console_dungeon
+    
 - 🧩 **Java RPG Game** — object-oriented game mechanics  
 - 🅿️ **Parking Simulation** — generators, models, business logic  
 - ⏱ **Android Interval Timer** — simple yet functional mobile app  
