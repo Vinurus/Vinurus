@@ -1,4 +1,4 @@
-##  IT Student | Paramedic | Professional Sailor
+<!--##  IT Student | Paramedic | Professional Sailor
 
 Hi! I’m an IT student passionate about **Java development**, **mobile apps**, and **embedded systems**.  
 I enjoy creating projects from scratch — from small simulations to functional Android applications.
@@ -27,7 +27,7 @@ Be sure to check out our academic RPG game — a collaborative project with a si
 - Build more real-world projects
 
 If you want to collaborate — feel free to reach out! 😊
-
+-->
 <!--
 **Vinurus/Vinurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
